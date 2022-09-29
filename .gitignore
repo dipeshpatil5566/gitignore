@@ -1,5 +1,5 @@
 #Ignore single files
-new-file.txt
+another-file.txt
 
 #Ignore filders
 bin/
